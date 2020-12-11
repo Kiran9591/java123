@@ -67,7 +67,7 @@ WebElement element = wait.until(ExpectedConditions.elementToBeClickable(By.xpath
 //	System.out.println(Allfriends.get(i).getText());
 //}
 facebook.close();
-	
+	//namastey
 	
 	
 	
